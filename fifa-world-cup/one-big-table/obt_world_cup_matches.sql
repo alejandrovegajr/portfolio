@@ -28,6 +28,7 @@ case when a.team_name = c.home_team_name and result = 'home team win' then 0
      when a.team_name in(c.home_team_name,c.away_team_name) and result = 'draw' then 0
      else 1 end as loss,
 case when a.team_name in(c.home_team_name,c.away_team_name) and result = 'draw' then 1 else 0 end as draw)) as matches,
+     
 performance as tournament_result,
 case when position = 1 then 1 else 0 end as champion,
 case when position = 2 then 1 else 0 end as runner_up,
