@@ -20,4 +20,8 @@ this project showcases a simple one-page report aimed to display website traffic
 
 # clockify project
 
-# world cup project
+coming soon
+
+# fifa world cup project
+
+coming soon
