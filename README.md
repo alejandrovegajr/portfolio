@@ -8,6 +8,9 @@ this portfolio aims to showcase my sql and bi development skills using analytics
 *  looker studio, bi development
 *  tableau public, bi development
 
+# google analytics project
+this project showcases a simple one-page report aimed to display website traffic for a consulting site.
+
 # clockify project
 
 # world cup project
